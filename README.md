@@ -6,9 +6,8 @@
 <img src="./readme_media/image3.png" alt="Screenshot 3" height="300">
 
 🎥 **Demo Video**  
-<video src="./readme_media/video1.mp4" controls="controls" width="600">
-Your browser does not support the video tag. Please download the video to view it.
-</video>
+
+https://github.com/user-attachments/assets/2f057f8c-4d07-4416-a41a-4f1971a9db10
 
 ---
 
