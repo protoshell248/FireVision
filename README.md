@@ -1,9 +1,13 @@
 # 🔥 FireVision - Web Page Content Extraction & QA Using Vision LLM! 🕶️✨
 
 📸 **Screenshots**  
-<img src="./readme_media/image1.png" alt="Screenshot 1" height="300">  
-<img src="./readme_media/image2.png" alt="Screenshot 2" height="300">  
-<img src="./readme_media/image3.png" alt="Screenshot 3" height="300">
+
+<table>
+  <tr>
+    <td><img src="./readme_media/image1.png" alt="Screenshot 1"></td>
+    <td><img src="./readme_media/image2.png" alt="Screenshot 2"></td>
+  </tr>
+</table>
 
 🎥 **Demo Video**  
 
